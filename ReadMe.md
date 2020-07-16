@@ -1,3 +1,10 @@
+Useful Links : 
+- https://seanprashad.com/leetcode-patterns/
+- https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+
+------------------------
+
+### Article 
 https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019
 
 
