@@ -20,8 +20,8 @@ void oneside(int[] arr, int n)
         if(arr[j]<0)
         {
            temp = arr[i+1];
-           arr[z] = arr[];
-           arr[] =  arr[];
+           arr[i+1] = arr[j];
+           arr[j] =  temp;
         }
     }
 
@@ -41,5 +41,6 @@ int main()
     int siz = 10;
     oneside(arr, 10);
     display(arr, 10);
+    display(arr, 15);
     return 0;
 }
