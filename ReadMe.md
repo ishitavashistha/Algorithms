@@ -1,8 +1,4 @@
-Useful Links : 
-- https://seanprashad.com/leetcode-patterns/
-- https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
-
-------------------------
+This is a private repository.
 
 ### Article 
 https://leetcode.com/discuss/general-discussion/459286/Best-Posts-of-2019
@@ -108,3 +104,10 @@ Tree
     #1110 Delete Nodes And Return Forest
 
 I haven't started solving problems from graphs and other intermediate topics, so I don't have them now, but once I have archive of some good problems, I would certainly share with the leetcode community.
+
+
+Useful Links : 
+- https://seanprashad.com/leetcode-patterns/
+- https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+
+------------------------
